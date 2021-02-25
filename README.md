@@ -12,3 +12,36 @@ This project is datasets from the UK and England about waste generated, imported
 4. What are the relationships between the different waste types, classifications*, and treatment methods for both the UK and England?
 5. How do treatment methods differ by waste types?
 
+Julie’s Portfolio
+Data Science Projects 
+
+### Project 1: Waste-Management
+
+### Overview
+This project is datasets from the UK and England about waste generated, imported, exported, and treatments to get a better understanding on how much trash is being produced. Our goal is educate ourselves and others.
+
+### Methods and Tools
+- Data Wrangling in R and Python
+  - Transform
+  - Manipulation
+  - Create New Variables
+  - Renaming
+  - Reshaping
+  - Recoding
+- ANOVAs
+  - One-Way
+  - Two-Ways
+   - With Year
+  - Repeated Measures (assumptions not met)
+- MANOVAs
+  - One-Way (assumptions not met)
+- Machine Learning
+   - Random Forest
+   - Regression Models
+    - Logistic Regression
+    - KNN - KNeighbors
+    - Classifier GaussianNB
+    - Linear Regression
+    - Random Forest Regression
+
+
