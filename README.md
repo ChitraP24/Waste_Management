@@ -1,6 +1,7 @@
 # Waste-Management-by-Chitra-Julie
 
 Project Name: 
+
 Taking Care of Rubbish
 
 Overview:
