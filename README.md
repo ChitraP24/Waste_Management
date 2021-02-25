@@ -1,5 +1,5 @@
 # Project 1: Waste Managament
-Taking Care of Rubbish
+# Taking Care of Rubbish
 
 ### Overview:
 
