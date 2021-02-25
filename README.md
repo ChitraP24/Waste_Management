@@ -1,5 +1,3 @@
-# Waste-Management-by-Chitra-Julie
-
 # Taking Care of Rubbish
 
 ## Overview:
