@@ -1,4 +1,4 @@
-# Project 1: Waste Managament
+# Project 1: Waste Management
 # Taking Care of Rubbish
 
 ### Overview:
